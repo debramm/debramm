@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm  debra mugwe! 👋</h1>
+ <p align="center">Web Developer and Designer </p>
+ <hr style="border: 0.5px solid #dfe2e5;" />
 
-<!--
-**debramm/debramm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h5 align="center">About Me 🚀</h3>
 
-Here are some ideas to get you started:
+I’m a dedicated Software developer passionate about using technology to empower others and provide innovative solutions to real-world challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍  I'm based in Nairobi,Kenya
+
+💡 My vision: To become a problem-solver who bridges creativity and technology to improve lives.
+
+✉️  You can contact me at debramugwe@gmail.com
+<hr style="border: 0.5px solid #dfe2e5;" />
+<p align="center"> Tech stack and tools  🛠️ </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+ <hr style="border: 0.5px solid #dfe2e5;" />
+ 
+<p align="center">Connect With Me 🤝</p>
+
+
+<p align="center">
+  <a href="mailto:debramugwe@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/debramm" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="www.linkedin.com/in/debra-mugwe" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+
+
+<hr style="border: 0.5px solid #dfe2e5;" />
+
+
+  
+  
+<p align="center">Visitor Counter 🤩</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/watchers/debramm/debra-mugwe?style=social&label=profile%20views&labelColor=blue&color=pink" alt="Profile views counter"/>
+  
+</p>
+
+ <hr style="border: 0.5px solid #dfe2e5;" />
